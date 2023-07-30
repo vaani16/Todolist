@@ -1,7 +1,10 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#  server-api folder
+open the folder in vscode and run 'npm start' then continue
 ## Available Scripts
 
 In the project directory, you can run:
