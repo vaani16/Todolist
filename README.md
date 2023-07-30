@@ -3,7 +3,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##  server-api folder
+##  Server-api folder
 open the folder in vscode and run 'npm start' then continue
 ## Available Scripts
 
